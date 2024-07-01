@@ -1,1 +1,1 @@
-GET http://localhost:3000/trigger-sync
+GET http://localhost:3000/trigger-sync/2
